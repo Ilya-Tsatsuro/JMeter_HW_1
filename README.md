@@ -5,7 +5,7 @@
 Сделать сценарий с перечисленными endpoint.
 
 - Дать нагрузку на 50, 250, 500 потоков.
-- Результаты прогонов вгрузить в CSV.
+- Результаты прогонов выгрузить в CSV.
 - Настройки Jmeter, файл .jmx выгрузить на GitHub.
 
 
@@ -17,7 +17,7 @@ Request parameters:
 >name: Ilia  
 >age: int  
 
-Result:
+Configuration:
 ![]()
 
 ## 2) http://162.55.220.72:5005/user_info_2
@@ -29,7 +29,7 @@ Request parameters:
 >age: 29  
 >salary: 5000
 
-Result:
+Configuration:
 ![]()
 
 ## 3) http://162.55.220.72:5005/user_info_3
@@ -41,8 +41,9 @@ Request parameters:
 >age: 29  
 >salary: 5000
 
-Result:
+Configuration:
 ![]()
+
 
 ## 4) http://162.55.220.72:5005/object_info_1
 
@@ -56,6 +57,9 @@ Request parameters:
 Result:
 ![]()
 
+Configuration:
+![]()
+
 
 ## 5) http://162.55.220.72:5005/object_info_2
 
@@ -65,7 +69,7 @@ Request parameters:
 >age: 29  
 >salary: 5000
 
-Result:
+Configuration:
 ![]()
 
 
@@ -77,7 +81,7 @@ Request parameters:
 >age: 29  
 >salary: 5000
 
-Result:
+Configuration:
 ![]()
 
 
@@ -89,8 +93,20 @@ Request parameters:
 >age: 29  
 >salary: 5000
 
-Result:
+Configuration:
 ![]()
 
 
 ------
+
+Configuration:
+![](https://github.com/Ilya-Tsatsuro/JMeter_HW_1/blob/main/images/JMeter_500_users.png?raw=true)
+
+Result:
+![](https://github.com/Ilya-Tsatsuro/JMeter_HW_1/blob/main/images/View%20results%20tree%20500%20users.png?raw=true)
+
+Result:
+![](https://github.com/Ilya-Tsatsuro/JMeter_HW_1/blob/main/images/Summary%20report%20500%20users.png?raw=true)
+
+Result:
+![](https://github.com/Ilya-Tsatsuro/JMeter_HW_1/blob/main/images/View%20results%20in%20Table%20500%20users.png?raw=true)
