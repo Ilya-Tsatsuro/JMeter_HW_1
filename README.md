@@ -52,7 +52,7 @@ Method: GET
 Request parameters:
 >name: Ilia  
 >age: 29  
->weight: 68
+>weight: 67
 
 Result:
 ![]()
@@ -74,7 +74,7 @@ Configuration:
 
 
 ## 6) http://162.55.220.72:5005/object_info_3
--
+
 Method: GET  
 Request parameters:
 >name: Ilia  
