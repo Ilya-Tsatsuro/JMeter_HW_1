@@ -15,10 +15,10 @@
 Method: GET  
 Request parameters:
 >name: Ilia  
->age: int  
+>age: 29  
 
 Configuration:
-![]()
+![](https://github.com/Ilya-Tsatsuro/JMeter_HW_1/blob/main/images/get_method.png?raw=true)
 
 ## 2) http://162.55.220.72:5005/user_info_2
 
@@ -27,10 +27,10 @@ Method: POST
 Request parameters:
 >name: Ilia  
 >age: 29  
->salary: 5000
+>salary: 10000
 
 Configuration:
-![]()
+![](https://github.com/Ilya-Tsatsuro/JMeter_HW_1/blob/main/images/user_info_2.png?raw=true)
 
 ## 3) http://162.55.220.72:5005/user_info_3
 
@@ -39,10 +39,10 @@ Method: POST
 Request parameters:
 >name: Ilia  
 >age: 29  
->salary: 5000
+>salary: 10000
 
 Configuration:
-![]()
+![](https://github.com/Ilya-Tsatsuro/JMeter_HW_1/blob/main/images/user_info_3.png?raw=true)
 
 
 ## 4) http://162.55.220.72:5005/object_info_1
@@ -54,11 +54,8 @@ Request parameters:
 >age: 29  
 >weight: 67
 
-Result:
-![]()
-
 Configuration:
-![]()
+![](https://github.com/Ilya-Tsatsuro/JMeter_HW_1/blob/main/images/object_info_1.png?raw=true)
 
 
 ## 5) http://162.55.220.72:5005/object_info_2
@@ -67,10 +64,10 @@ Method: GET
 Request parameters:
 >name: Ilia  
 >age: 29  
->salary: 5000
+>salary: 10000
 
 Configuration:
-![]()
+![](https://github.com/Ilya-Tsatsuro/JMeter_HW_1/blob/main/images/object_info_2.png?raw=true)
 
 
 ## 6) http://162.55.220.72:5005/object_info_3
@@ -79,10 +76,10 @@ Method: GET
 Request parameters:
 >name: Ilia  
 >age: 29  
->salary: 5000
+>salary: 10000
 
 Configuration:
-![]()
+![](https://github.com/Ilya-Tsatsuro/JMeter_HW_1/blob/main/images/object_info_3.png?raw=true)
 
 
 ## 7) http://162.55.220.72:5005/object_info_4
@@ -91,10 +88,10 @@ Method: GET
 Request parameters:
 >name: Ilia  
 >age: 29  
->salary: 5000
+>salary: 10000
 
 Configuration:
-![]()
+![](https://github.com/Ilya-Tsatsuro/JMeter_HW_1/blob/main/images/object_info_4.png?raw=true)
 
 
 ------
